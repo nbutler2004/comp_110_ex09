@@ -18,16 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Comp 110 Website
-email: jind@unc.edu
+title: COMP 110 EX09 Website
+email: butlerna@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/custompath" # the subpath of your site, e.g. /blog
-url: "jingerbreadman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  Website for COMP 110 EX09.
+baseurl: "/comp110-ex09" # the subpath of your site, e.g. /blog
+url: "https://nbutler2004.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  jingerbreadman
+github_username:  nbutler2004
 
 # Build settings
 # Build settings
