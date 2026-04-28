@@ -15,18 +15,21 @@ The primary question we explored was: "Does varying ranges of prior experience c
 
 ## Visualization 1: Understanding vs Prior Experience
 <img src="static/imgs/figure1.png" alt="Figure 1: A boxplot comparing student understanding grouped by their self-reported prior experience." width="500"/>
+
 Figure 1: A boxplot comparing student understanding grouped by their self-reported prior experience.
 
 The data reveals a significant floor difference. Students with "None to less than one month" of experience show a much wider variance in understanding, with several outliers feeling "Lost" (ratings 1-2). Conversely, students with 1-2 years of experience have a much tighter distribution near the top of the scale (ratings 6-7). This confirms that beginners face a steeper learning curve that may require more targeted instructional "scaffolding" early in the semester.
 
 ## Visualization 2: The Distribution of Course Difficulty
 <img src="static/imgs/figure2.png" alt="Countplot of difficulty ratings" width="500"/>
+
 Figure 2: A countplot showing the frequency of each difficulty rating from Very Easy to Very Difficult.
 
 The distribution of difficulty is bell-curved, but shifted right, with the most common responses being 5 and 6. This suggests that Comp110 successfully avoids being "too easy" for the majority of the population. However, because the peak is at 6, the course is hovering on the edge of the "Productive Struggle" threshold. If the difficulty pushes further to 7, we risk a significant drop in student retention and sentiment.
 
 ## Visualization 3: Office Hour Impact on Understanding
 <img src="static/imgs/figure3.png" alt="Pointplot of OH visits vs understanding by experience" width="500"/>
+
 Figure 3: A pointplot illustrating the relationship between the number of Office Hour visits and student understanding, categorized by experience level.
 
 This visualization provides the most actionable insight. For beginners, there is a positive correlation between the frequency of Office Hour visits and their reported understanding. For experienced students, understanding remains high regardless of OH visits. This indicates that Office Hours are currently the primary value-creator for beginners, acting as the essential bridge that helps them catch up to their experienced peers.
